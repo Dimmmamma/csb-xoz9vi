@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dimmmamma.github.io/csb-xoz9vi/static/css/main.afd7172b.chunk.css",
+    "main.js": "https://dimmmamma.github.io/csb-xoz9vi/static/js/main.5bd416a8.chunk.js",
+    "main.js.map": "https://dimmmamma.github.io/csb-xoz9vi/static/js/main.5bd416a8.chunk.js.map",
+    "runtime-main.js": "https://dimmmamma.github.io/csb-xoz9vi/static/js/runtime-main.4e977ab9.js",
+    "runtime-main.js.map": "https://dimmmamma.github.io/csb-xoz9vi/static/js/runtime-main.4e977ab9.js.map",
+    "static/js/2.3024a215.chunk.js": "https://dimmmamma.github.io/csb-xoz9vi/static/js/2.3024a215.chunk.js",
+    "static/js/2.3024a215.chunk.js.map": "https://dimmmamma.github.io/csb-xoz9vi/static/js/2.3024a215.chunk.js.map",
+    "index.html": "https://dimmmamma.github.io/csb-xoz9vi/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "https://dimmmamma.github.io/csb-xoz9vi/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.3024a215.chunk.js.LICENSE.txt": "https://dimmmamma.github.io/csb-xoz9vi/static/js/2.3024a215.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e977ab9.js",
+    "static/js/2.3024a215.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.5bd416a8.chunk.js"
+  ]
+}
